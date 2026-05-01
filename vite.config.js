@@ -5,7 +5,8 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [tailwindcss(),
      react(),
-     base: process.env.VITE_BASE_URL || "/",
     
     ],
+    base: process.env.VITE_BASE_PATH || "/AHP-Decision-deploy-",
+
 });
