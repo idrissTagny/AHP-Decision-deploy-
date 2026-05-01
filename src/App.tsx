@@ -421,7 +421,7 @@ export default function App() {
       {/* Footer */}
       <footer className="footer footer-center p-10 bg-base-100 text-base-content mt-20 border-t border-base-200 opacity-50">
         <div>
-          <p className="font-bold">AHP Decision Professional 2026</p> 
+          <p className="font-bold">AHP Decision Professional</p> 
           <p>Un outil d'aide à la décision basé sur la science mathématique.</p>
         </div>
       </footer>
