@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "daisyui/daisyui.css";
+@import "daisyui/theme/synthwave.css";
+
+:root {
+  --radius-selector: 0.5rem;
+}
+
+/* *{
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+} */
